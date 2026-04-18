@@ -1,7 +1,7 @@
 # Senior Software Engineer
 - **Company**: Microsoft
 - **Location**: Vancouver, British Columbia, Canada
-- **Scraped At**: 2026-04-17 19:09
+- **Scraped At**: 2026-04-17 20:26
 - **Original Link**: https://ca.linkedin.com/jobs/view/senior-software-engineer-at-microsoft-4402955011?refId=yiz5KZToicT%2FfazpBPcE0Q%3D%3D&trackingId=ef0CeroC%2Fkw0BemHbGJ%2FTg%3D%3D&position=19&pageNum=0
 
 ---
