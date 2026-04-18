@@ -1,7 +1,7 @@
 # Senior Software Engineer - Java
 - **Company**: lululemon
 - **Location**: Vancouver, British Columbia, Canada
-- **Scraped At**: 2026-04-17 19:09
+- **Scraped At**: 2026-04-17 20:27
 - **Original Link**: https://ca.linkedin.com/jobs/view/senior-software-engineer-java-at-lululemon-4340653884?refId=yiz5KZToicT%2FfazpBPcE0Q%3D%3D&trackingId=LBau%2BguU5gjTG5ckMJ3ErA%3D%3D&position=17&pageNum=0
 
 ---
