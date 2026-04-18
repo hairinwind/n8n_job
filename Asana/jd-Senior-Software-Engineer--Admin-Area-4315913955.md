@@ -1,7 +1,7 @@
 # Senior Software Engineer, Admin Area
 - **Company**: Asana
 - **Location**: Vancouver, British Columbia, Canada
-- **Scraped At**: 2026-04-17 19:09
+- **Scraped At**: 2026-04-17 20:26
 - **Original Link**: https://ca.linkedin.com/jobs/view/senior-software-engineer-admin-area-at-asana-4315913955?refId=yiz5KZToicT%2FfazpBPcE0Q%3D%3D&trackingId=qdNHU6RCw%2BqIUcSzetnArw%3D%3D&position=21&pageNum=0
 
 ---
